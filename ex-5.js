@@ -9,7 +9,7 @@ function calculateStudentGrade(score) {
   }else if (score >= 60 && score <=69) {
     return "D";
 }else {
-    return "F"
+    return "F";
 }
 }
   
